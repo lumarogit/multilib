@@ -1,1 +1,1 @@
-# mutilib
+# multilib
